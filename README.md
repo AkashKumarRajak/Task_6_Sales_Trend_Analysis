@@ -70,10 +70,10 @@ ORDER BY year, month;
 ## Project Files
 
 File Name	Description:
-- task6_sales_trend.sql	SQL script to run monthly trend query
-- online_sales_dataset.csv	Raw dataset used in analysis
-- monthly_trend_output.csv	Output table from SQL script
-- README.md	This project summary and documentation
+- `task6_sales_trend.sql`: SQL script to run monthly trend query
+- `online_sales_dataset.csv`:	Raw dataset used in analysis
+- `monthly_trend_output.csv`:	Output table from SQL script
+- `README.md`: This project summary and documentation
 
 ---
 
