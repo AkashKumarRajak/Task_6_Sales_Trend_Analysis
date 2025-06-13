@@ -1,6 +1,6 @@
 # Task_6_Sales_Trend_Analysis
 
-# 📈 Task 6: Sales Trend Analysis Using Aggregations
+# Task 6: Sales Trend Analysis Using Aggregations
 
 **Internship**: Data Analyst Intern  
 **Company**: Elevate Labs  
@@ -9,19 +9,19 @@
 
 ---
 
-## 🎯 Objective
+## Objective
 
 The goal of this task is to analyze **monthly revenue** and **order volume** using SQL aggregation functions. The analysis helps identify sales trends over time for better business planning and decision-making.
 
 ---  
 
-## 🧾 Dataset Details
+## Dataset Details
 
 - **Name**: `online_sales_dataset.csv`
 - **Source**: (Kaggle): https://www.kaggle.com/datasets/yusufdelikkaya/online-sales-dataset
 - **Table Name (in SQL)**: `online_sales`
 
-### 📊 Key Columns Used
+### Key Columns Used
 
 | Column Name     | Description                       |
 |------------------|-----------------------------------|
